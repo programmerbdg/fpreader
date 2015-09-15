@@ -1,0 +1,1 @@
+The Fingerprint reader project is a Java implementation of some  image processing algorithms for image thinning, image processing and minutiae extraction.
